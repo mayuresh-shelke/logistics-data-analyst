@@ -46,7 +46,7 @@ Optimizing urban last-mile delivery operations for a high-throughput distributio
 
 ```bash
 # Clone the repository
-git clone [https://github.com/](https://github.com/)<your-username>/logistics-data-analyst.git
+git clone [https://github.com/](https://github.com/)mayuresh-shelke/logistics-data-analyst.git
 
 # Navigate to project directory
 cd logistics-data-analyst
