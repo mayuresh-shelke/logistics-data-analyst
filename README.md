@@ -36,7 +36,7 @@ Optimizing urban last-mile delivery operations for a high-throughput distributio
 * **Combinatorial Optimization:** Formulating stop sequences using Traveling Salesperson Problem (TSP) constraints.
 
 ### 4. Week 1 Contents
-* [📄 Strategy Report (.docx)](./Week-1-Strategic-Planning/Logistics_DA_week1.py)
+* [📄 Strategy Report (.docx)](./Week-1-Strategic-Planning/Logistics_DA_week1.docx)
 * [🐍 Python Strategy & Simulation Code](./Week-1-Strategic-Planning/logistics_strategy_pipeline.py)
 * [📊 Strategic Roadmap Visual](./Week-1-Strategic-Planning/roadmap.png)
 
@@ -46,10 +46,10 @@ Optimizing urban last-mile delivery operations for a high-throughput distributio
 
 ```bash
 # Clone the repository
-git clone [https://github.com/](https://github.com/)<your-username>/logistics-data-analyst-internship.git
+git clone [https://github.com/](https://github.com/)<your-username>/logistics-data-analyst.git
 
 # Navigate to project directory
-cd logistics-data-analyst-internship
+cd logistics-data-analyst
 
 # Run Week 1 script
 python Week-1-Strategic-Planning/logistics_strategy_pipeline.py
